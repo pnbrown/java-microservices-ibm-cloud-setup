@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Workshop Template
-email: bourdakos1@gmail.com
+title: Java Microservices Setup
+email: pnigelbrown@ibm.com
 description: >-  # this means to ignore newlines until "baseurl:"
-  A template for a GitHub pages workshop stepper UI.
-baseurl: "/workshop-template" # the subpath of your site, e.g. /github-repo-name
+  GitHub Pages site to help attendees get set up with the necessary environment for Deploying Java Microservices with OpenShift on IBM Cloud
+baseurl: "/java-microservices-ibm-cloud-setup" # the subpath of your site, e.g. /github-repo-name
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
